@@ -13,6 +13,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yahia47.Yahia47&"  />
+</div>
+
+###
+
 <h1 align="center">Hi there, I'm Yahia 👋<br>💻 Software Engineer Studnet | 🌍 Web Developer | 🚀 Tech Enthusiast</h1>
 
 ###
@@ -74,5 +80,11 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Yahia47&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
